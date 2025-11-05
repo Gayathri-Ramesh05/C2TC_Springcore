@@ -15,6 +15,7 @@ public class AnnotationConfigurationApplication {
         obj.setName("Rahul Ravi");
 
         // Displaying teacher information
+        
         System.out.println(obj.getTeacherInfo());
     }
 }

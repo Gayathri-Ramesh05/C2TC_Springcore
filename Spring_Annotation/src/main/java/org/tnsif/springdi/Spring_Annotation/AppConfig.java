@@ -19,3 +19,4 @@ public class AppConfig {
         System.out.println(obj.getTeacherInfo());
     }
 }
+
